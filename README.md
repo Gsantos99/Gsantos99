@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1999<br>📚 I'm currently learning: HTML5, CSS3, JAVASCRIPT, REACT, NODE, SQL <br>🎯 Goals: be happy <br> :earth_asia: Recife-PE </p>
+<p align="left">✨ Creating bugs since: 1999<br>📚 I'm currently learning: HTML5, CSS3, JAVASCRIPT, REACT <br>🎯 Goals: be happy <br> :earth_asia: Recife-PE </p>
 
 ###
 
@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
 ###
