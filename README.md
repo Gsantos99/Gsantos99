@@ -1,9 +1,10 @@
 <h1 align="left">Oi 👋 </h1>
 
 ###
+![Linkedin banner v4](https://user-images.githubusercontent.com/94020264/180661096-ffbd17fe-ed13-49ce-8de9-191fd53ea9fa.png)
 
 
-<p align="left">Me chamo Giulyano Santos sou desenvolvedor Front-End</p>
+<h3 align="left">Me chamo Giulyano Santos  sou desenvolvedor Front-End</h3>
 
 ###
 
@@ -11,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1999<br>📚 I'm currently learning: HTML5, CSS3, JAVASCRIPT, REACT <br>🎯 Goals: be happy <br> :earth_asia: Recife-PE </p>
+<p align="left">✨ Creating bugs since: 1999<br>📚 Tenho conhecimentos em: HTML5, CSS3, JAVASCRIPT e REACT <br>🎯 Objetivos: Melhorar todos os dias<br> :earth_asia: Recife-PE </p>
 
 ###
 
