@@ -1,7 +1,7 @@
 <h1 align="left">Oi 👋 </h1>
 
 ###
-<img src='https://drive.google.com/file/d/1zyNItUDK4iOoZCpE5ByZTjxkW2Ojq28w/view?usp=sharing' alt='banner com símbolos: html, css, javascript, react e github. Todos lado a lado. E do lado direito há um teclado de notebook '/>
+<img href='https://drive.google.com/file/d/1zyNItUDK4iOoZCpE5ByZTjxkW2Ojq28w/view?usp=sharing' alt='banner com símbolos: html, css, javascript, react e github. Todos lado a lado. E do lado direito há um teclado de notebook '/>
 
 <p align="left">Me chamo Giulyano Santos sou desenvolvedor Front-End</p>
 
