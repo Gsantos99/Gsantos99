@@ -4,7 +4,7 @@
 ![Linkedin banner v4](https://user-images.githubusercontent.com/94020264/180661096-ffbd17fe-ed13-49ce-8de9-191fd53ea9fa.png)
 
 
-<h3 align="left">Me chamo Giulyano Santos  sou desenvolvedor Front-End</h3>
+<h3 align="left">Me chamo Giulyano Santos e sou desenvolvedor Front-End</h3>
 
 ###
 
