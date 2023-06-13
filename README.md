@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1999<br>📚 Tenho conhecimentos em: HTML5, CSS3, JAVASCRIPT e REACT <br>🎯 Objetivos: Melhorar todos os dias<br> :earth_asia: Recife-PE </p>
+<p align="left">✨ Creating bugs since: 1999<br>📚 Tenho conhecimentos em: HTML, CSS, JAVASCRIPT, TYPESCRIPT REACT, NODE, STYLEDCOMPONENTS, DOCKER <br>🎯 Objetivos: Melhorar todos os dias<br> :earth_asia: Recife-PE </p>
 
 ###
 
