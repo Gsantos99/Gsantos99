@@ -14,11 +14,9 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p> Sou um desenvolvedor Front-End e possuo conhecimentos em: JavaScript, React, Styled-Components, NodeJS, TypeScript, API Rest, CSS e HTML. Ademais, tenho conhecimento em tecnologias de versionamento Git/ Github e utilizo as metodologias ágeis (Scrum e Kanban) em projetos. 
+Sou um profissional com mais de 2 anos de experiência na área de desenvolvimento de software. Tenho experiência na construção de APIs REST, utilização de serviços da AWS como RDS, Lambdas, API Gateway, S3, e sou proficiente em React, Node, JavaScript e TypeScript. Possuo sólidos conhecimentos em frontend, utilizando React e styled-components, e já fui responsável por implementar e otimizar APIs RESTful usando Node.js para a comunicação entre frontend e backend.
 
-Meus conhecimentos foram adquiridos por meio de disciplinas da minha graduação, cursos online, bootcamps e projetos pessoais. 
-
-Buscando ampliar meus conhecimentos comecei a desenvolver meus próprios projetos e a participar de comunidades de programação, dessa maneira além de aprender pude ajudar outras pessoas com meus conhecimentos. Também possuo habilidades que vão além do conhecimento técnico: sou comprometido com o trabalho, focado, disciplinado e criativo.
+Tenho vivência na identificação e correção de bugs, além de aprimorar a escalabilidade e manutenibilidade do código existente. Colaborei com equipes multidisciplinares para traduzir requisitos de projetos em soluções técnicas viáveis, e apliquei metodologias ágeis, como Scrum, em todas as fases do projeto, utilizando Jira para gerenciamento de projetos. Minhas competências comportamentais incluem criatividade, trabalho em equipe e comunicação.
  
 Acesse meu linkedin:
 https://www.linkedin.com/in/giulyano-santos-a92b6917b/
