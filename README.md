@@ -1,7 +1,7 @@
 <h1 align="left">Oi 👋 </h1>
 
 ###
-![Linkedin banner v4](https://user-images.githubusercontent.com/94020264/180661096-ffbd17fe-ed13-49ce-8de9-191fd53ea9fa.png)
+![ENGENHEIRO-DE-SOFTWARE-JR](https://github.com/user-attachments/assets/668c1ec6-f401-45b0-b724-2b76e27b797a)
 
 
 <h2 align="left">Me chamo Giulyano Santos sou Desenvolvedor Front-End</h2>
