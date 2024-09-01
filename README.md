@@ -8,10 +8,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1999<br>📚 Tenho conhecimentos em: HTML, CSS, JAVASCRIPT, TYPESCRIPT REACT, NODE, STYLEDCOMPONENTS, DOCKER <br>🎯 Objetivo: Melhorar todos os dias <br> :earth_asia: Recife-PE </p>
-
-###
-
 <h2 align="left">Sobre mim:</h2>
 
 Sou um profissional com mais de 2 anos de experiência na área de desenvolvimento de software. Tenho experiência na construção de APIs REST, utilização de serviços da AWS como RDS, Lambdas, API Gateway, S3, e sou proficiente em React, Node, JavaScript e TypeScript. Possuo sólidos conhecimentos em frontend, utilizando React e styled-components, e já fui responsável por implementar e otimizar APIs RESTful usando Node.js para a comunicação entre frontend e backend.
