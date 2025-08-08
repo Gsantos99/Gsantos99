@@ -4,15 +4,19 @@
 ![ENGENHEIRO-DE-SOFTWARE-JR](https://github.com/user-attachments/assets/668c1ec6-f401-45b0-b724-2b76e27b797a)
 
 
-<h2 align="left">Me chamo Giulyano Santos sou Desenvolvedor Front-End</h2>
+<h2 align="left">Me chamo Giulyano Santos sou Desenvolvedor FullStack</h2>
 
 ###
 
 <h2 align="left">Sobre mim:</h2>
 
-Sou um profissional com mais de 2 anos de experiência na área de desenvolvimento de software. Tenho experiência na construção de APIs REST, utilização de serviços da AWS como RDS, Lambdas, API Gateway, S3, e sou proficiente em React, Node, JavaScript e TypeScript. Possuo sólidos conhecimentos em frontend, utilizando React e styled-components, e já fui responsável por implementar e otimizar APIs RESTful usando Node.js para a comunicação entre frontend e backend.
+Sou desenvolvedor fullstack com mais de 2 anos de experiência, atuando no desenvolvimento e manutenção de aplicações web escaláveis, tanto no frontend quanto no backend. Tenho sólida experiência com JavaScript e TypeScript, utilizando React no cliente e Node.js (com Express) no servidor.
 
-Tenho vivência na identificação e correção de bugs, além de aprimorar a escalabilidade e manutenibilidade do código existente. Colaborei com equipes multidisciplinares para traduzir requisitos de projetos em soluções técnicas viáveis, e apliquei metodologias ágeis, como Scrum, em todas as fases do projeto, utilizando Jira para gerenciamento de projetos. Minhas competências comportamentais incluem criatividade, trabalho em equipe e comunicação.
+Tenho prática com a construção e integração de APIs RESTful, modelagem de dados com PostgreSQL, e uso de ORMs como Prisma. Já atuei em ambientes que exigem alta disponibilidade, utilizando serviços da AWS (como S3, RDS, Lambda, API Gateway), além de tecnologias como Docker e mensageria com RabbitMQ.
+
+No frontend, domino React com styled-components, e no backend, sou responsável por desenvolver soluções eficientes e reutilizáveis, com foco em escalabilidade e qualidade. Tenho experiência com testes automatizados (Jest e Mocha), versionamento com Git e automação de builds em pipelines de CI/CD.
+
+Trabalho com metodologias ágeis (Scrum), participando ativamente de revisões de código, discussões técnicas e do compartilhamento de conhecimento entre o time. Valorizo a colaboração, boa comunicação e entrega de código limpo e funcional.
  
 Acesse meu linkedin:
 https://www.linkedin.com/in/giulyano-santos-a92b6917b/
@@ -51,7 +55,7 @@ Telefone - (81) 9814-71222  </p>
 
 ### DevOps
 
-![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
+![aws](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
 ![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Design Tools
