@@ -10,7 +10,7 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-Sou desenvolvedor fullstack com mais de 2 anos de experiência, atuando no desenvolvimento e manutenção de aplicações web escaláveis, tanto no frontend quanto no backend. Tenho sólida experiência com JavaScript e TypeScript, utilizando React no cliente e Node.js (com Express) no servidor.
+Sou desenvolvedor fullstack com mais de 3 anos de experiência, atuando no desenvolvimento e manutenção de aplicações web escaláveis, tanto no frontend quanto no backend. Tenho sólida experiência com JavaScript e TypeScript, utilizando React no cliente e Node.js (com Express) no servidor.
 
 Tenho prática com a construção e integração de APIs RESTful, modelagem de dados com PostgreSQL, e uso de ORMs como Prisma. Já atuei em ambientes que exigem alta disponibilidade, utilizando serviços da AWS (como S3, RDS, Lambda, API Gateway), além de tecnologias como Docker e mensageria com RabbitMQ.
 
